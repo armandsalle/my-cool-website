@@ -1,3 +1,5 @@
 import $ from 'jquery'
 
-$('h1').css('color', 'red')
+$('h1').css('color', 'yellow')
+
+console.log('coucou')
